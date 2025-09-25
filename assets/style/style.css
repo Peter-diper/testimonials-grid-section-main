@@ -85,6 +85,18 @@ body {
 .card.jonathan {
   background-color: var(--Grey-500);
 }
+.patrick {
+  background: var(--Dark-blue);
+  color: var(--Grey-200);
+}
+.kira {
+  background-color: white;
+  color: var(--Grey-400);
+}
+.jeanette {
+  background-color: var(--White);
+  color: var(--Grey-400);
+}
 @media screen and (min-width: 1000px) {
   .container {
     max-width: 120rem;
